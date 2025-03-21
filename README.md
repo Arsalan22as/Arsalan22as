@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arsalan Siddiqui</h1>
-<h3 align="center">I am an AI and Data Science graduate with a strong interest in machine learning, deep learning, and data-driven problem-solving. I enjoy building intelligent models, exploring computer vision, and working on real-world AI applications. Constantly learning and experimenting. Check out my work and let’s connect!</h3>
+<h3 align="center">I'm a passionate AI and Data Science graduate with a strong interest in machine learning, deep learning, and data-driven problem-solving. I enjoy building intelligent models, exploring computer vision, and working on real-world AI applications. Constantly learning and experimenting. Check out my work and let’s connect!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsalan22as&label=Profile%20views&color=0e75b6&style=flat" alt="arsalan22as" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **siddiquiarsalan22as@gmail.com**
 
-- 📄 Know about my experiences [my resume](my resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pXgqO9FI5Bac5OML2nJ14stediULCxts/view?usp=drive_link](https://drive.google.com/file/d/1pXgqO9FI5Bac5OML2nJ14stediULCxts/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
